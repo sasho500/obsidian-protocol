@@ -17,3 +17,7 @@ Saved/
 # OS
 Thumbs.db
 .DS_Store
+# Visual Studio generated files
+*.slnx
+UpgradeLog.htm
+Backup/
